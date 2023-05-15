@@ -1,11 +1,11 @@
 {
-  "version" : "1.0.1",
+  "version" : "1.0.2",
   "tags" : "Miscellaneous",
   "author" : "pat",
-  "description" : "its starmound\n\n[url=https://discord.gg/Vaqm6yS]join the pile, dingus[/url]",
+  "description" : "its starmound\n\n[url=https://discord.gg/GdsQSgV]join the bongus jive, dingus[/url]",
   "name" : "starmound",
   "friendlyName" : "starmound",
   "steamContentId" : "1522170317",
   "link" : "steam://url/CommunityFilePage/1522170317",
-  "priority" : 9999
+  "priority" : 999999999999
 }
