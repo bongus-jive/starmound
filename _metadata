@@ -1,5 +1,5 @@
 {
-  "version" : "1.0.2",
+  "version" : "1.0.3",
   "tags" : "Miscellaneous",
   "author" : "pat",
   "description" : "its starmound\n\n[url=https://discord.gg/GdsQSgV]join the bongus jive, dingus[/url]",
@@ -7,5 +7,5 @@
   "friendlyName" : "starmound",
   "steamContentId" : "1522170317",
   "link" : "steam://url/CommunityFilePage/1522170317",
-  "priority" : 999999999999
+  "priority" : 1.79769e+308
 }
